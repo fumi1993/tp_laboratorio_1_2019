@@ -73,7 +73,7 @@ float factorial(float A, float B)
     float i,factorialA=1, factorialB=1;
 
       if(A>=0){
-                for(int i=1;i<=A;i++){
+                for(i=1;i<=A;i++){
                     factorialA = factorialA*i;
                 }
                 printf("\nel factorial de A es :%.1f\n",factorialA);
@@ -83,7 +83,7 @@ float factorial(float A, float B)
             }
 
             if(B>=0){
-                for(int i=1;i<=B;i++){
+                for(i=1;i<=B;i++){
                     factorialB = factorialB*i;
                 }
                 printf("\nel factorial de B es :%.1f\n",factorialB);
