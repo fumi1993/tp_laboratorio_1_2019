@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1567732437 source:c:\users\katon\desktop\programacion 1\labo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1567287997 source:c:\users\katon\desktop\programacion 1\labo\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1567287547 source:c:\users\katon\desktop\programacion 1\labo\add.c
+
+1567732436 source:c:\users\katon\desktop\programacion 1\labo\utn.c
+	<stdio.h>
+	<stdlib.h>
+
+1567727608 c:\users\katon\desktop\programacion 1\labo\utn.h
+
