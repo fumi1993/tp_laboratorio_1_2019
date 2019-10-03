@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1570069894 source:c:\users\katon\desktop\tp2\funciones.c
+	"headers.h"
+
+1570068844 c:\users\katon\desktop\tp2\headers.h
+	<stdio.h>
+	<string.h>
+
+1570069523 source:c:\users\katon\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
