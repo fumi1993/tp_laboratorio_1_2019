@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "headers.h"
 #define A 1000
-//lamento mucho la desprolijidad, no tube mucho tiempo para hacer este tp. si se me permite recuperarlo lo voy a ir modificando.
+//lamento mucho la desprolijidad, no tube muchos problemas para hacer este tp. si se me permite recuperarlo lo voy a ir modificando.
 int main()
 {
    eEmpleado listaDeEmpleados[A];
